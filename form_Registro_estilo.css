@@ -1,0 +1,62 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    background-image: url(img/fondo_form.jpg);
+    background-repeat: no-repeat;
+}
+
+/*Form de registro de clientes*/
+
+
+form{
+
+    width: 30%;
+    background-color: #94be9d;
+    margin: 13% auto 20% auto;
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 2em;
+}
+
+input{
+
+    width: 70%;
+    align-items: center;
+    margin: 5px;
+    margin-left: 18%;
+    padding: 5px;
+    
+}
+
+label{
+
+    margin-left: 10px;
+}
+
+.btn_en{
+
+    padding: 10px 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(50, 50, 255);
+    color: white;
+    margin-top: 10px;
+    cursor: pointer;
+
+}
+label{
+
+    color: white;
+
+
+}
